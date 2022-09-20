@@ -17,7 +17,7 @@ I am a person who likes to work as a leader on a team, always looking for new so
 <br>
 
 ## Work 🤓
-Currently working as an Academic Coach in <a href="https://platzi.com/p/larispardo/">Platzi </a>.
+Currently working as a Senior Data Scientist in [Baubap](https://www.baubap.com/) </a>.
 
 ***
 
@@ -26,13 +26,9 @@ Currently working as an Academic Coach in <a href="https://platzi.com/p/larispar
 
 <div align="center">
 <a href="https://github.com/larispardo">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=larispardo&theme=midnight-purple&count_private=true&hide=css,blade" alt="larispardo's GitHub Stats" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/?username=larispardo&theme=buefy&count_private=true&hide=css,blade" alt="larispardo's GitHub Stats" />
 
 <br>
-<br>
-<br>
-<a href="https://github.com/larispardo">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=larispardo&count_private=true&show_icons=true&line_height=27&theme=midnight-purple " alt="larispardo's GitHub Stats"/>
 </a>
 </div>
 
